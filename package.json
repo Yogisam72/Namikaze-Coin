@@ -1,0 +1,22 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "A test coin with liq, burn and fees",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yogisam72/Namikaze-Coin.git"
+  },
+  "author": "Yogesh Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yogisam72/Namikaze-Coin/issues"
+  },
+  "homepage": "https://github.com/Yogisam72/Namikaze-Coin#readme"
+}
